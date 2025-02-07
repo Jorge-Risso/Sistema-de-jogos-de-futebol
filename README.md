@@ -1,4 +1,4 @@
-# Futebol ao Vivo - Sistema de Consulta de Jogos e Times
+# Sistema de Jogos de futebol
 
 Este projeto é um desafio para a TowOut.
 Sistema simples para consultar informações sobre jogos de futebol, incluindo últimos jogos, próximos jogos e jogos de um time específico. Ele utiliza a API do [Api Football]([https://www.football-data.org/](https://www.api-football.com)) para obter dados sobre ligas e jogos de futebol de diversas competições.
