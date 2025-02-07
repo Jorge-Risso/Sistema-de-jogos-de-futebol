@@ -71,6 +71,9 @@ if ($leagueId && $teamName && $season) {
         </div>
     </form>
 
+    <a class="btn btn-info mt-3" href="index.php">Próximos Jogos</a>
+    <a class="btn btn-warning mt-3" href="lastGames.php">Últimos Jogos</a>
+
     <hr>
 
     <?php if ($errorMessage): ?>
